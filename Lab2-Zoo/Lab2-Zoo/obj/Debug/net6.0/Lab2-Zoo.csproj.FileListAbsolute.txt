@@ -1,0 +1,30 @@
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.exe
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.deps.json
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.runtimeconfig.json
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.dll
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.pdb
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.AssemblyInfo.cs
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.dll
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\refint\Lab2-Zoo.dll
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.pdb
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.genruntimeconfig.cache
+C:\Users\saiko stores\Desktop\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\ref\Lab2-Zoo.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.exe
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.deps.json
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.runtimeconfig.json
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\bin\Debug\net6.0\Lab2-Zoo.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.csproj.AssemblyReference.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.AssemblyInfoInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.AssemblyInfo.cs
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\refint\Lab2-Zoo.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\Lab2-Zoo.genruntimeconfig.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab2-Zoo\Lab2-Zoo\obj\Debug\net6.0\ref\Lab2-Zoo.dll
